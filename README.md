@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudipto-chandra45&label=Profile%20views&color=0e75b6&style=flat" alt="sudipto-chandra45" /> </p>
 
-- 🌱 I’m currently learning **data**
+- 🌱 I’m currently learning **data structures and algorithms**
 
 - ⚡ Fun fact **I sometimes code better with music in the background.**
 
