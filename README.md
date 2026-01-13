@@ -36,3 +36,7 @@
 
 ### 📫 Let’s Connect
 Learning, building, and improving — one commit at a time ✨
+
+
+
+![Sudipto-Chandra45 's GitHub stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sudipto-Chandra45+&theme=aura&chart=donut)
