@@ -1,18 +1,18 @@
-## 👋 Hello, I'm Sudipto Chandra
+# 👋 Hi, I'm Sudipto Chandra
 
-🚀 A curious learner trying to get better every day  
-💻 Passionate about building logic, solving problems, and exploring technology  
-
----
-
-### 🌱 Currently Learning
-- Data Structures & Algorithms  
-- Python & Advanced Python  
-- Java & Java Development  
+I am a simple learner trying to get better every day.  
+I enjoy learning new technologies and improving my problem-solving skills step by step.
 
 ---
 
-### 🔍 Exploring & Interested In
+## 🌱 Currently Learning
+- Data Structures and Algorithms  
+- Python and Advanced Python  
+- Java and Java Development  
+
+---
+
+## 🔍 Interested In
 - Web Development  
 - DevOps  
 - Data Analytics  
@@ -20,19 +20,20 @@
 
 ---
 
-### 🎯 Goals
+## 🎯 Goals
 - Strengthen problem-solving skills  
 - Build real-world projects  
 - Become a well-rounded software developer  
 
 ---
 
-### 🛠️ Tech Stack (Growing 🚧)
+## 🛠️ Tech Stack
 - Languages: C, Python, Java  
-- Concepts: DSA, OOP  
-- Next Up: Web Development, DevOps tools, Data Science  
+- Concepts: Data Structures, OOP  
+- Tools & Next Goals: Web Development, DevOps, Data Science  
 
 ---
 
-### 📫 Let’s Connect
-Learning, building, and improving — one commit at a time ✨
+## 📊 GitHub Stats
+
+![Sudipto's GitHub stats
